@@ -1,2 +1,2 @@
 # Zomato_Dataset_Analysis
-Exploratory Data Analysis, Data Cleaning, Data Visualization on Zomato dataset 
+Exploratory Data Analysis on Zomato Dataset of Online and Dine-In Restaurants.
